@@ -92,4 +92,7 @@ Building upon the insights gained from this study, several future extensions and
 
 - **Incorporating External Factors:** Integrating external factors, such as policy announcements, media coverage, and economic indicators, into sentiment analysis models could help contextualize sentiment fluctuations. Understanding how external events influence sentiment expression adds depth to the analysis.
 
-In essence, the future extensions of this study lie in leveraging advanced techniques and data sources to refine sentiment analysis methodologies, capture temporal and spatial dynamics, and gain a deeper understanding of the implications of sentiment expression in crisis situations. This research could have practical applications in crisis management, mental health support, and public engagement strategies.
+In essence, the future extensions of this study lie in leveraging advanced techniques and data sources to refine sentiment analysis methodologies, capture temporal and spatial dynamics, and gain a deeper understanding of the implications of sentiment expression in crisis situations. This research could have practical applications in crisis management, mental health support, and public engagement strategies
+
+**Link to find the dataset**
+https://georgiancollege-my.sharepoint.com/:x:/g/personal/200559818_student_georgianc_on_ca/EU5RAhjTrDRPh_ydCJdRm_EB6xJzGt3ZsnKogMfe8H2dJQ?e=PWHFuu
